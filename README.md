@@ -109,4 +109,6 @@ function draw() {
   image(capture, 0 , 0, 800, 600);
 }
 
-## Thank you for taking the time to read this README. I hope you find this project useful!
+Additionally, this project not only detects human posture but also includes fun accessories that function like filters. 
+Feel free to experiment by changing the accessories to suit your preferences.
+### Thank you for taking the time to read this README. I hope you find this project useful!
