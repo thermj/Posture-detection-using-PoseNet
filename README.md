@@ -33,7 +33,7 @@ They are:
 
 4) Virtual Games to analyze shots of players.
 
-## We are going to use two main libraries for this project:
+## We are going to use two libraries for this project:
 ### 1. ml5.js:
 JavaScript library that simplifies the use of machine learning in web applications. It provides an accessible interface for using pre-trained machine learning models, enabling users to easily incorporate tasks such as image classification, text analysis, and generative models into their projects.
 
@@ -108,3 +108,5 @@ function setup() {
 function draw() {
   image(capture, 0 , 0, 800, 600);
 }
+
+## Thank you for taking the time to read this README. I hope you find this project useful!
